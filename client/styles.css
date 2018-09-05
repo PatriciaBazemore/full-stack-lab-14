@@ -1,0 +1,48 @@
+
+.jumbotron {
+    background-image: url(/images/express-yourself.png);
+    background-size: cover;
+    height: 225px;
+    background-repeat: no-repeat;
+    background-position: center;    
+    position: relative;
+    margin: 0;
+}
+
+#chirpbox{
+    background-color: black;
+    color: white;
+    text-align: center;
+    justify-content: center;
+}
+
+
+#chirpfield {
+    background-color: black;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    height: 50px;
+    width: 300px;
+    border-color: black;
+}
+#userfield {
+    background-color: black;
+    color: white;
+    border-color: black;
+}
+#chirplist{
+    background-color:lightgrey;
+    color:black;   
+    border: 1px solid purple;
+    text-align: center;
+    justify-content: center;
+}
+
+#btn {
+    background-color: black;
+    color: darkgrey;
+    border-radius: .25px;
+    text-align: center;
+    justify-content: center;
+}
